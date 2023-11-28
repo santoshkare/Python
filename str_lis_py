@@ -1,0 +1,5 @@
+# Using list() function
+original_string = "Hello, World!"
+characters_list = list(original_string)
+
+print(characters_list)
